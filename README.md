@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs, Java, C++, C#**
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/juic-in](https://github.com/juic-in](https://github.com/juic-in?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/juic-in?tab=repositories)
 
 - 💬 Ask me about **Anything other then coding**
 
